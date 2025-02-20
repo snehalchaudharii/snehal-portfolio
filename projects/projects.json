@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Hulu Website",
+    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://hulu-clone-jigar-sable.vercel.app/",
+      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/snehalchaudharii/portfolio-website"
+    }
+  },
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jigar-sable/WebChat#webchat",
+      "code": "https://github.com/jigar-sable/WebChat"
+    }
+  }
+]
