@@ -15,8 +15,8 @@
     "image": "hulu",
     "category": "mern",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+      "view": "https://github.com/snehalchaudharii/resumeMaker",
+      "code": "https://snehalchaudharii.github.io/resumeMaker/"
     }
   },
   {
@@ -29,14 +29,14 @@
       "code": "https://snehalchaudharii.github.io/snehal-portfolio/"
     }
   }
-  // {
-  //   "name": "WebChat Website",
-  //   "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-  //   "image": "webchat",
-  //   "category": "mern",
-  //   "links": {
-  //     "view": "",
-  //     "code": ""
-  //   }
-  // }
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/snehalchaudharii/resumeMaker",
+      "code": "https://snehalchaudharii.github.io/resumeMaker/"
+    }
+  }
 ]
