@@ -1,12 +1,12 @@
 [
   {
-    "name": "ResumeGen",
+    "name": "ResumeMaker",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://github.com/snehalchaudharii/resumeMaker",
+      "code": "https://snehalchaudharii.github.io/resumeMaker/"
     }
   },
   {
@@ -26,17 +26,17 @@
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "https://github.com/snehalchaudharii/portfolio-website"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+      "code": "https://snehalchaudharii.github.io/snehal-portfolio/"
     }
   }
+  // {
+  //   "name": "WebChat Website",
+  //   "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+  //   "image": "webchat",
+  //   "category": "mern",
+  //   "links": {
+  //     "view": "",
+  //     "code": ""
+  //   }
+  // }
 ]
