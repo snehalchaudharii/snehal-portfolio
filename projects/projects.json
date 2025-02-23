@@ -5,18 +5,8 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://github.com/snehalchaudharii/resumeMaker",
-      "code": "https://snehalchaudharii.github.io/resumeMaker/"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/snehalchaudharii/resumeMaker",
-      "code": "https://snehalchaudharii.github.io/resumeMaker/"
+      "view": "https://snehalchaudharii.github.io/resumeMaker/",
+      "code": "https://github.com/snehalchaudharii/resumeMaker"
     }
   },
   {
@@ -27,16 +17,6 @@
     "links": {
       "view": "#",
       "code": "https://snehalchaudharii.github.io/snehal-portfolio/"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/snehalchaudharii/resumeMaker",
-      "code": "https://snehalchaudharii.github.io/resumeMaker/"
     }
   }
 ]

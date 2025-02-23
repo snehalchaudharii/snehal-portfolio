@@ -115,7 +115,7 @@ function showProjects(projects) {
     .forEach((project) => {
       projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="/assets/images/projects/portfolio1.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
@@ -175,23 +175,23 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // pre loader end
 
 // disable developer mode
-// document.onkeydown = function (e) {
-//   if (e.keyCode == 123) {
-//     return false;
-//   }
-//   if (e.ctrlKey && e.shiftKey && e.keyCode == "I".charCodeAt(0)) {
-//     return false;
-//   }
-//   if (e.ctrlKey && e.shiftKey && e.keyCode == "C".charCodeAt(0)) {
-//     return false;
-//   }
-//   if (e.ctrlKey && e.shiftKey && e.keyCode == "J".charCodeAt(0)) {
-//     return false;
-//   }
-//   if (e.ctrlKey && e.keyCode == "U".charCodeAt(0)) {
-//     return false;
-//   }
-// };
+document.onkeydown = function (e) {
+  if (e.keyCode == 123) {
+    return false;
+  }
+  if (e.ctrlKey && e.shiftKey && e.keyCode == "I".charCodeAt(0)) {
+    return false;
+  }
+  if (e.ctrlKey && e.shiftKey && e.keyCode == "C".charCodeAt(0)) {
+    return false;
+  }
+  if (e.ctrlKey && e.shiftKey && e.keyCode == "J".charCodeAt(0)) {
+    return false;
+  }
+  if (e.ctrlKey && e.keyCode == "U".charCodeAt(0)) {
+    return false;
+  }
+};
 
 // Start of Tawk.to Live Chat
 var Tawk_API = Tawk_API || {},
