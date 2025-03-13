@@ -18,5 +18,25 @@
       "view": "#",
       "code": "https://snehalchaudharii.github.io/snehal-portfolio/"
     }
+  },
+  {
+    "name": "Spotify Webpage Clone",
+    "desc": "Instead of creating a typical landing page, I decided to build a Spotify home page that resembles an already signed-in state.",
+    "image": "spotifyclone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://spotify-clone-webpage-sandy.vercel.app/",
+      "code": "https://github.com/snehalchaudharii/spotify-clone-webpage"
+    }
+  },
+  {
+    "name": "React Quiz App",
+    "desc": "ReactJS Basic Quiz App which will generate customized quiz in few minutes on your requirements.",
+    "image": "quizapp",
+    "category": "react",
+    "links": {
+      "view": "https://react-quiz-app-old.vercel.app/",
+      "code": "https://github.com/snehalchaudharii/react-quiz-app-old"
+    }
   }
 ]
