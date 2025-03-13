@@ -31,7 +31,7 @@
   },
   {
     "name": "React Quiz App",
-    "desc": "ReactJS Basic Quiz App which will generate customized quiz in few minutes on your requirements.",
+    "desc": "ReactJS Basic Quiz App which will generate quiz in few minutes.",
     "image": "quizapp",
     "category": "react",
     "links": {
